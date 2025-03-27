@@ -2,4 +2,4 @@
 
 Fourth order Runge-Kutta method for driven harmonic pendulum
 
-by: Mohsin M. Mumtaz and Oliver Briskeby-Stubban
+by: M. Mohsin Mumtaz and Oliver Briskeby-Stubban
